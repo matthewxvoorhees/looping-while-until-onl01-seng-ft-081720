@@ -1,4 +1,4 @@
-phrase = ""
+phrase = "Wingardium Leviosa"
 
 def using_until
   levitation_force = 6
