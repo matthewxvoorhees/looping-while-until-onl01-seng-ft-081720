@@ -5,14 +5,6 @@ while levitation_force < 10
 end
 
 
-def using_while
-  while levitation_force < 10
-    puts "Wingardium Leviosa"
-    levitation_force += 1
-	end
-end
-
-
 counter = 0
 while counter < 20
   puts "The current number is less than 20."
